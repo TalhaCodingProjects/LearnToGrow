@@ -13,7 +13,7 @@ function Frontend() {
                     </div>
                 </div>
                 <div className="price container">
-                    <p className=' text-end'><span className='text-secondary'>Price = </span><a href='mailto:example@gmail.com'>$90.2</a></p>
+                    <p className=' text-end'><span className='text-secondary'>Price = </span><a href='mailto:talhamalik1122st@gmail.com'>$90.2</a></p>
                 </div>
             </div>
         </>

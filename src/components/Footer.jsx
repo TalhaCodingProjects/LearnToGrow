@@ -13,7 +13,7 @@ function Footer(props) {
                         <code><mark><strong>✉️ Email:</strong></mark> talhamalik1122st@gmail.com</code><br/>
                         <code><mark><strong>📞 Phone Number:</strong></mark> +92 313 5291256</code><br/>
 
-                            <a className={`footer__btn text-black}`} href="mailto:example@gmail.com">Email Us</a>
+                            <a className={`footer__btn text-black}`} href="mailto:talhamalik1122st@gmail.com">Email Us</a>
                     </address>
                 </div>
 
