@@ -6,6 +6,8 @@ import Call from './components/Call';
 import Banner from './components/Banner';
 import Selection from './components/Selection';
 import Footer from './components/Footer';
+import Teacher from './components/Teacher';
+import Featured from './components/Featured';
 
 function App() {
 
@@ -15,6 +17,8 @@ function App() {
             <Banner/>
             <Selection/>
             <Call/>
+            <Featured/>
+            <Teacher/>
             <Footer/>
         </>
     );

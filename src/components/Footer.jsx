@@ -23,19 +23,19 @@ function Footer(props) {
 
                         <ul className="nav__ul">
                             <li>
-                                <a href="#">Frontend Development Course</a>
+                                <a target='_blank' href="https://youtube.com/@knowledgewithfunstar">Frontend Development</a>
                             </li>
 
                             <li>
-                                <a href="#">Canva Complete Course</a>
+                                <a target='_blank' href="https://youtube.com/@knowledgewithfunstar">Canva Complete Course</a>
                             </li>
 
                             <li>
-                                <a href="#">Video Editing Course</a>
+                                <a target='_blank' href="https://youtube.com/@knowledgewithfunstar">Video Editing Course</a>
                             </li>
 
                             <li>
-                                <a href="#">MS 365 Course</a>
+                                <a target='_blank' href="https://youtube.com/@knowledgewithfunstar">MS 365 Course</a>
                             </li>
                         </ul>
                     </li>
@@ -45,19 +45,19 @@ function Footer(props) {
 
                         <ul className="nav__ul nav__ul--extra">
                             <li>
-                                <a href="/EnglishTense">English Tenses</a>
+                                <a target='_blank' href="https://youtube.com/@knowledgewithfunstar">English Tenses</a>
                             </li>
 
                             <li>
-                                <a href="#">English Grammar</a>
+                                <a target='_blank' href="https://youtube.com/@knowledgewithfunstar">English Grammar</a>
                             </li>
 
                             <li>
-                                <a href="/NationalBooks">NBF Books</a>
+                                <a target='_blank' href="https://youtube.com/@knowledgewithfunstar">NBF Books</a>
                             </li>
 
                             <li>
-                                <a href="#">Urdu Grammar</a>
+                                <a target='_blank' href="https://youtube.com/@knowledgewithfunstar">Urdu Grammar</a>
                             </li>
 
                         </ul>
@@ -76,10 +76,6 @@ function Footer(props) {
                             </li>
 
                             <li>
-                                <a href="#">Holy Quran Translation</a>
-                            </li>
-
-                            <li>
                                 <a href="/English">English Course</a>
                             </li>
 
@@ -94,7 +90,7 @@ function Footer(props) {
                 </ul>
 
                 <div className="legal">
-                    <p>&copy; 2024 KnowledgeWithFunsStar. All rights reserved.</p>
+                    <p>&copy; 2024 TalhaAcademy. All rights reserved.</p>
 
                     <div className="legal__links">
                         <span>Developed by <span className="heart">♥</span> Talha Malik</span>
