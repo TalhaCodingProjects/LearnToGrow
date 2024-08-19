@@ -3,8 +3,8 @@ import './Call.css'
 function Call() {
     return (
         <>
-            <div className="container shadow-lg p-3 mb-2 rounded call fixed-bottom alert d-flex justify-content-center">
-                <p>Contact Us For Online Classes : 📞+92 330 5291256 -- or checkout the <a href="">Courses</a></p>
+            <div className="container shadow-lg p-3 mb-4 rounded call fixed-bottom alert d-flex justify-content-center">
+                <p>Contact Us For Online Classes : 📞+92 330 5291256 -- or checkout the <a href="#">Courses</a></p>
             </div>
         </>
     )

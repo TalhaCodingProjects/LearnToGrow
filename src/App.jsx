@@ -5,7 +5,7 @@ import './components/Navbar.css';
 import Call from './components/Call';
 import Banner from './components/Banner';
 import Selection from './components/Selection';
-// import Option from './components/Option';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -15,6 +15,7 @@ function App() {
             <Banner/>
             <Selection/>
             <Call/>
+            <Footer/>
         </>
     );
 }

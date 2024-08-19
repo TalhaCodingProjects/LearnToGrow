@@ -5,8 +5,18 @@ import Selec from './Selec';
 import English from './English';
 import Frontend from './Frontend';
 import Office from './Office';
+import Nazra from './Nazra';
+import Wordpress from './Wordpress';
 function Selection() {
     const router = createBrowserRouter([
+      {
+        path: '/',
+        element: (
+          <React.Fragment>
+              <Frontend/>
+          </React.Fragment>
+        ),
+      },
         {
           path: '/English',
           element: (
@@ -28,6 +38,22 @@ function Selection() {
           element: (
             <React.Fragment>
                 <Office/>
+            </React.Fragment>
+          ),
+        },
+        {
+          path: '/Nazra',
+          element: (
+            <React.Fragment>
+                <Nazra/>
+            </React.Fragment>
+          ),
+        },
+        {
+          path: '/Wordpress',
+          element: (
+            <React.Fragment>
+                <Wordpress/>
             </React.Fragment>
           ),
         }
