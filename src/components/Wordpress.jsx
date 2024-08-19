@@ -12,7 +12,7 @@ function Wordpress() {
                     </div>
                 </div>
                 <div className="price container">
-                    <p className=' text-end'><span className='text-secondary'>Price = </span><a href='/Contact'>$54.07</a></p>
+                    <p className=' text-end'><span className='text-secondary'>Price = </span><a href='mailto:example@gmail.com'>$54.07</a></p>
                 </div>
             </div>
         </>

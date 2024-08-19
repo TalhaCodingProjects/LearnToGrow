@@ -12,7 +12,7 @@ function Nazra() {
                     </div>
                 </div>
                 <div className="price container">
-                    <p className=' text-end'><span className='text-secondary'>Price = </span><a href='/Contact'>$18.03</a></p>
+                    <p className=' text-end'><span className='text-secondary'>Price = </span><a href="mailto:example@gmail.com">$18.03</a></p>
                 </div>
             </div>
         </>

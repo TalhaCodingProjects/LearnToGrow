@@ -68,11 +68,11 @@ function Footer(props) {
 
                         <ul className="nav__ul">
                             <li>
-                                <a href="#">Nazra Quran</a>
+                                <a href="/Nazra">Nazra Quran</a>
                             </li>
 
                             <li>
-                                <a href="#">Wordpress Course</a>
+                                <a href="/Wordpress">Wordpress Course</a>
                             </li>
 
                             <li>
@@ -80,7 +80,7 @@ function Footer(props) {
                             </li>
 
                             <li>
-                                <a href="#">English Course</a>
+                                <a href="/English">English Course</a>
                             </li>
 
                             <br />
